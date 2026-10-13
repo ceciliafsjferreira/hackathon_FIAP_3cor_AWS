@@ -1,0 +1,12 @@
+# Ambiente virtual
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Saída da ETL
+saida/
+
+# Arquivos de dados locais
+dados/
