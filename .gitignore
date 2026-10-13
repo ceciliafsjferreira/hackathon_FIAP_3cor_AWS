@@ -10,3 +10,5 @@ saida/
 
 # Arquivos de dados locais
 dados/
+# Planilhas de dados internos da empresa (não versionar)
+*.xlsx
