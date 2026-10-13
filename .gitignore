@@ -5,10 +5,10 @@
 __pycache__/
 *.py[cod]
 
-# Saída da ETL
-saida/
-
 # Arquivos de dados locais
 dados/
+
 # Planilhas de dados internos da empresa (não versionar)
 *.xlsx
+# ...exceto a saída da ETL, que deve ser versionada
+!saida/*.xlsx
