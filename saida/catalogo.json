@@ -1,0 +1,109 @@
+{
+  "schema": "catalogo",
+  "versao": 1,
+  "moeda": "USD",
+  "gerado_em": "2026-10-13T13:33:44",
+  "total_itens": 10,
+  "itens": [
+    {
+      "material": 12031189,
+      "nome": "CAFE TM 3C TRAD EXP VAC 20X250G",
+      "familia": "CAFES (15)",
+      "marca": "3C (01)",
+      "unidade_venda": "UN",
+      "preco_venda": 49.41,
+      "moeda": "USD",
+      "disponivel": true
+    },
+    {
+      "material": 12031291,
+      "nome": "CAFE TM 3C EST R PREM AL VAC 20X250G",
+      "familia": "CAFES (15)",
+      "marca": "3C (01)",
+      "unidade_venda": "UN",
+      "preco_venda": 60.17,
+      "moeda": "USD",
+      "disponivel": true
+    },
+    {
+      "material": 12034103,
+      "nome": "CAFE CAPP 3C CLAS AL SACHE 16X10X20G",
+      "familia": "CAPPUCCINO (16)",
+      "marca": "3C (01)",
+      "unidade_venda": "SCH",
+      "preco_venda": 24.75,
+      "moeda": "USD",
+      "disponivel": true
+    },
+    {
+      "material": 12034109,
+      "nome": "CAFE CAPP 3C BAUN ABRA COR AL PT 24X200G",
+      "familia": "CAPPUCCINO",
+      "marca": "3 CORAÇÕES",
+      "unidade_venda": "UN",
+      "preco_venda": 100.38,
+      "moeda": "USD",
+      "disponivel": true
+    },
+    {
+      "material": 12037417,
+      "nome": "FILTRO PAP 3C 102/30 RED DES 40X30UN",
+      "familia": "FILTROS",
+      "marca": "3 CORAÇÕES",
+      "unidade_venda": "UN",
+      "preco_venda": 30.41,
+      "moeda": "USD",
+      "disponivel": true
+    },
+    {
+      "material": 12142146,
+      "nome": "CAFE SOL IGUA CLAS AL VID 12X160G",
+      "familia": "SOLUVEIS (25)",
+      "marca": "IGUAÇU (44)",
+      "unidade_venda": "UN",
+      "preco_venda": 50.27,
+      "moeda": "USD",
+      "disponivel": true
+    },
+    {
+      "material": 12142501,
+      "nome": "CAFE SOL IGUA PO TRAD REF 24X40G",
+      "familia": "SOLUVEIS (25)",
+      "marca": "IGUAÇU (44)",
+      "unidade_venda": "UN",
+      "preco_venda": 21.56,
+      "moeda": "USD",
+      "disponivel": true
+    },
+    {
+      "material": 12144012,
+      "nome": "CAFE CAPP IGUA CLAS SCH 8X10X10G",
+      "familia": "CAPPUCCINO (16)",
+      "marca": "IGUAÇU (44)",
+      "unidade_venda": "SCH",
+      "preco_venda": 9.68,
+      "moeda": "USD",
+      "disponivel": true
+    },
+    {
+      "material": 12147801,
+      "nome": "CAFE SOL IGUA TRAD STICK 24X10X1,7G",
+      "familia": "SOLUVEIS (25)",
+      "marca": "IGUAÇU (44)",
+      "unidade_venda": "SCH",
+      "preco_venda": 19.71,
+      "moeda": "USD",
+      "disponivel": true
+    },
+    {
+      "material": 20908885,
+      "nome": "PORTA FILTRO 3C PLAST VM 102 C/12",
+      "familia": "PORTA FILTROS",
+      "marca": "3 CORAÇÕES",
+      "unidade_venda": "UN",
+      "preco_venda": 21.7,
+      "moeda": "USD",
+      "disponivel": true
+    }
+  ]
+}
