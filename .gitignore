@@ -10,8 +10,9 @@ dados/
 
 # Planilhas de dados internos da empresa (não versionar)
 *.xlsx
-# ...exceto a saída da ETL, que deve ser versionada
-!saida/*.xlsx
 
-config.json
-saida/*.json
+# Arquivos gerados pela ETL
+saida/
+
+# Arquivos JSON
+*.json
