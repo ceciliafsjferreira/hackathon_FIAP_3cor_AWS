@@ -14,4 +14,4 @@ dados/
 !saida/*.xlsx
 
 config.json
-
+saida/*.json
