@@ -1,0 +1,17 @@
+# Ambiente virtual
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Arquivos de dados locais
+dados/
+
+# Planilhas de dados internos da empresa (não versionar)
+*.xlsx
+# ...exceto a saída da ETL, que deve ser versionada
+!saida/*.xlsx
+
+config.json
+

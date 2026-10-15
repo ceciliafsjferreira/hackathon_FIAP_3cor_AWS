@@ -1,0 +1,81 @@
+{
+  "schema": "pedido",
+  "versao": 1,
+  "moeda": "USD",
+  "cliente": {
+    "cliente": "MINOIL",
+    "codigo": "11131",
+    "moeda": "USD",
+    "incoterm": "FCA",
+    "cond_pagamento": "STANDBY IRREVOGAVEL 60 DIAS"
+  },
+  "cabecalho": {
+    "referencia_cliente": "PEDIDO TESTE",
+    "filial": "LONT",
+    "embarque": "Carreta/Truck/Camión",
+    "incoterms": "FCA",
+    "prazo_pagamento": "STANDBY IRREVOGAVEL 60 DIAS"
+  },
+  "gerado_em": "2026-10-13T16:19:50",
+  "totais": {
+    "qtd_itens": 4,
+    "valor_total": 192005.84,
+    "caixas_total": 4378.0,
+    "peso_liquido_total": 19070.0,
+    "peso_bruto_total": 20151.04
+  },
+  "itens": [
+    {
+      "material": 12031189,
+      "nome": "CAFE TM 3C TRAD EXP VAC 20X250G",
+      "familia": "GROUND COFFEE",
+      "preco_unitario": 49.4067,
+      "caixas": 3528.0,
+      "pallets": 21.0,
+      "valor_total": 174306.84,
+      "peso_bruto": 18275.039999999997,
+      "peso_liquido": 17640.0,
+      "validado": true,
+      "moeda": "USD"
+    },
+    {
+      "material": 12034103,
+      "nome": "CAFE CAPP 3C CLAS SACHE 16X10X20G",
+      "familia": "CAPPUCCINO",
+      "preco_unitario": 24.75,
+      "caixas": 300.0,
+      "pallets": 3.7037037037037037,
+      "valor_total": 7425.0,
+      "peso_bruto": 1152.0,
+      "peso_liquido": 960.0,
+      "validado": true,
+      "moeda": "USD"
+    },
+    {
+      "material": 12037417,
+      "nome": "FILTRO PAP 3C 102/30 DES AL 40X30UN",
+      "familia": "PAPER FILTER",
+      "preco_unitario": 29.48,
+      "caixas": 250.0,
+      "pallets": 2.7472527472527473,
+      "valor_total": 7370.0,
+      "peso_bruto": 340.0,
+      "peso_liquido": 229.99999999999997,
+      "validado": true,
+      "moeda": "USD"
+    },
+    {
+      "material": 12144012,
+      "nome": "CAFE CAPP IGUA CLAS SCH 8X10X10G",
+      "familia": "CAPPUCCINO",
+      "preco_unitario": 9.68,
+      "caixas": 300.0,
+      "pallets": 1.4354066985645932,
+      "valor_total": 2904.0,
+      "peso_bruto": 384.0,
+      "peso_liquido": 240.0,
+      "validado": false,
+      "moeda": "USD"
+    }
+  ]
+}
